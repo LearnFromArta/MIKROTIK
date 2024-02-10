@@ -3,7 +3,7 @@
 ## [آموزش در کانال IR_TECH](https://youtu.be/h_moyIt4gpE)
 ## install
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/MIKROTIK/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/LearnFromArta/MIKROTIK/main/install.sh)
 ```
 ![4](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/4.jpg)
 
